@@ -1,0 +1,4 @@
+# My Personal Goals
+- Learn Git and GitHub
+- Finish Demo For this Assignment
+- Finish Capstone project
